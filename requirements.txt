@@ -1,0 +1,13 @@
+streamlit
+pandas
+mysql-connector-python
+plotly
+numpy
+datetime
+logging
+matplotlib
+seaborn
+logging
+python-dotenv
+psycopg2
+openpyxl
