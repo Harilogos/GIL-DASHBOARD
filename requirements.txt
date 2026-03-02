@@ -11,3 +11,4 @@ logging
 python-dotenv
 openpyxl
 sqlalchemy
+pymysql
